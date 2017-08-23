@@ -1,0 +1,108 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="源文件">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="头文件">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hh;hpp;hxx;hm;inl;inc;xsd</Extensions>
+    </Filter>
+    <Filter Include="资源文件">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <Text Include="ReadMe.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="Color Linez.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="Color LinezDlg.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="stdafx.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="targetver.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="Resource.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="GetNameDialog.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="Color Linez.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="Color LinezDlg.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="stdafx.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="GetNameDialog.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ResourceCompile Include="Color Linez.rc">
+      <Filter>资源文件</Filter>
+    </ResourceCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="res\ColorLinez.rc2">
+      <Filter>资源文件</Filter>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <Image Include="res\Background.bmp">
+      <Filter>资源文件</Filter>
+    </Image>
+    <Image Include="res\Blue.bmp">
+      <Filter>资源文件</Filter>
+    </Image>
+    <Image Include="res\Bluex.bmp">
+      <Filter>资源文件</Filter>
+    </Image>
+    <Image Include="res\Green.bmp">
+      <Filter>资源文件</Filter>
+    </Image>
+    <Image Include="res\Greenx.bmp">
+      <Filter>资源文件</Filter>
+    </Image>
+    <Image Include="res\Purple.bmp">
+      <Filter>资源文件</Filter>
+    </Image>
+    <Image Include="res\Purplex.bmp">
+      <Filter>资源文件</Filter>
+    </Image>
+    <Image Include="res\Red.bmp">
+      <Filter>资源文件</Filter>
+    </Image>
+    <Image Include="res\Redx.bmp">
+      <Filter>资源文件</Filter>
+    </Image>
+    <Image Include="res\Yellow.bmp">
+      <Filter>资源文件</Filter>
+    </Image>
+    <Image Include="res\Yellowx.bmp">
+      <Filter>资源文件</Filter>
+    </Image>
+    <Image Include="res\Blank.bmp">
+      <Filter>资源文件</Filter>
+    </Image>
+    <Image Include="res\Color Linez.ico">
+      <Filter>资源文件</Filter>
+    </Image>
+    <Image Include="res\Color Linez.bmp">
+      <Filter>资源文件</Filter>
+    </Image>
+  </ItemGroup>
+</Project>
